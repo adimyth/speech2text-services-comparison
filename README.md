@@ -1,11 +1,11 @@
 ## Comparison of Speech to Text APIs
-| Service                    | Latency             | Observation                                                                                             |
-| -------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------- |
-| **Deepgram (Remote File)** | 1 to 2 seconds      | Last few words are not transcribed                                                                      |
-| **Deepgram (Local File)**  | 2 to 3 seconds      | Last few words are not transcribed                                                                      |
-| **OpenAI Whisper**         | 2.5 to 3.25 seconds | Complete & accuratetranscription                                                                        |
-| **AWS Transcribe**         | 10.5 to 11 seconds  | Complete & accurate transcription                                                                       |
-| **Google Cloud**           | 5.75 to 6.5 seconds | Few words weren't properly transcribed. Accuracy depends on the type of model used & sampling rate, etc |
+| Service                         | Latency             | Observation                                                                                             |
+| ------------------------------- | ------------------- | ------------------------------------------------------------------------------------------------------- |
+| **Deepgram (Remote File)**      | 1 to 2 seconds      | Last few words are not transcribed                                                                      |
+| **Deepgram (Local File)**       | 2 to 3 seconds      | Last few words are not transcribed                                                                      |
+| **OpenAI Whisper (Local File)** | 2.5 to 3.25 seconds | Complete & accurate transcription                                                                        |
+| **AWS Transcribe (File in S3)** | 10.5 to 11 seconds  | Complete & accurate transcription                                                                       |
+| **Google Cloud (Local File)**   | 5.75 to 6.5 seconds | Few words weren't properly transcribed. Accuracy depends on the type of model used & sampling rate, etc |
 
 
 ### Setup Details
