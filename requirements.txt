@@ -1,0 +1,5 @@
+deepgram-sdk==3.0.3
+openai==1.8.0
+python-dotenv==1.0.0
+boto3==1.34.20
+google-cloud-speech
