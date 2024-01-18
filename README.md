@@ -13,7 +13,7 @@
 * File Size - 413 KB
 * File Duration - 30 seconds
 * Actual Transcription
-    ```
+    ```text
     ```
 
 ## DeepGram
