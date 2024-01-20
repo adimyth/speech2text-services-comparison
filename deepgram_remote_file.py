@@ -36,12 +36,17 @@ def main(audio_name, audio_url, model):
 
 if __name__ == "__main__":
     audio_urls = {
-        "Do product detailing with a cardiac surgeon.mp3": "https://cdn-lankesh002-dev.enparadigmtech.com/roleplay/user_response_audio/1705512467720_62496_Do_product_detailing_with_a_cardiac_surgeon.mp3",
-        "Explain integration capabilities to the IT SPOC.mp3": "https://cdn-lankesh002-dev.enparadigmtech.com/roleplay/user_response_audio/1705512530981_72025_Explain_integration_capabilities_to_the_IT_SPOC.mp3",
-        "Handle questions on claim settlement ratio.mp3": "https://cdn-lankesh002-dev.enparadigmtech.com/roleplay/user_response_audio/1705512568972_4263_Handle_questions_on_claim_settlement_ratio.mp3",
-        "Illustrate TCO of a commercial vehicle to an SME owner.mp3": "https://cdn-lankesh002-dev.enparadigmtech.com/roleplay/user_response_audio/1705512605311_26623_Illustrate_TCO_of_a_commercial_vehicle_to_an_SME_owner_.mp3",
-        "Pitch a credit card to a salaried employee.mp3": "https://cdn-lankesh002-dev.enparadigmtech.com/roleplay/user_response_audio/1705512632966_23786_Pitch_a_credit_card_to_a_salaried_employee.mp3",
+        "1.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/1.mp3",
+        "2.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/2.mp3",
+        "3.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/3.mp3",
+        "4.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/4.mp3",
+        "5.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/5.mp3",
+        "6.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/6.mp3",
+        "7.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/7.mp3",
+        "8.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/8.mp3",
+        "9.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/9.mp3",
+        "10.mp3": "https://cdn-aditya-dev.enparadigmtech.com/mp3/10.mp3",
     }
 
     for audio_name, audio_url in audio_urls.items():
-        main(audio_name, audio_url, model="base")
+        main(audio_name, audio_url, model="nova-2")

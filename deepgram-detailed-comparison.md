@@ -1,11 +1,12 @@
 ## Base
-| File                                                       | Avg Duration  |
-| ---------------------------------------------------------- | ------------- |
-| Do product detailing with a cardiac surgeon.mp3            | 1.19          |
-| Explain integration capabilities to the IT SPOC.mp3        | 1.02          |
-| Handle questions on claim settlement ratio.mp3             | 1.02  seconds |
-| Illustrate TCO of a commercial vehicle to an SME owner.mp3 | 1.36          |
-| Pitch a credit card to a salaried employee.mp3             | 1.02          |
+| Audio Name                                                 | First Run Duration | Avg Duration (5 runs) |
+| ---------------------------------------------------------- | ------------------ | --------------------- |
+| Do product detailing with a cardiac surgeon.mp3            | 1.39s              | 1.19s                 |
+| Explain integration capabilities to the IT SPOC.mp3        | 0.89s              | 1.02s                 |
+| Handle questions on claim settlement ratio.mp3             | 0.95s              | 1.02s                 |
+| Illustrate TCO of a commercial vehicle to an SME owner.mp3 | 1.32s              | 1.36s                 |
+| Pitch a credit card to a salaried employee.mp3             | 0.93s              | 1.02s                 |
+
 
 
 ```bash
@@ -143,15 +144,23 @@ Average time:  1.02  seconds
 
 ## Nova-2
 
-| File                                                       | Avg Duration |
-| ---------------------------------------------------------- | ------------ |
-| Do product detailing with a cardiac surgeon.mp3            | 2.75         |
-| Explain integration capabilities to the IT SPOC.mp3        | 3.29         |
-| Handle questions on claim settlement ratio.mp3             | 2.65         |
-| Illustrate TCO of a commercial vehicle to an SME owner.mp3 | 2.36         |
-| Pitch a credit card to a salaried employee.mp3             | 1.88         |
-
-
+| Audio Name                                                 | First Run Duration | Avg Duration (5 runs) |
+| ---------------------------------------------------------- | ------------------ | --------------------- |
+| Do product detailing with a cardiac surgeon.mp3            | 3.92s              | 2.75s                 |
+| Explain integration capabilities to the IT SPOC.mp3        | 6.45s              | 3.29s                 |
+| Handle questions on claim settlement ratio.mp3             | 3.06s              | 2.65s                 |
+| Illustrate TCO of a commercial vehicle to an SME owner.mp3 | 3.09s              | 2.36s                 |
+| Pitch a credit card to a salaried employee.mp3             | 3.76s              | 1.88s                 |
+| 1.mp3                                                      | 2.36               | 1.83                  |
+| 2.mp3                                                      | 1.35               | 1.33                  |
+| 3.mp3                                                      | 1.05               | 2.09                  |
+| 4.mp3                                                      | 1.12               | 1.16                  |
+| 5.mp3                                                      | 3.19               | 1.56                  |
+| 6.mp3                                                      | 5.48               | 2.61                  |
+| 7.mp3                                                      | 1.42               | 1.29                  |
+| 8.mp3                                                      | 1.57               | 1.55                  |
+| 9.mp3                                                      | 3.12               | 1.63                  |
+| 10.mp3                                                     | 2.98               | 1.63                  |
 
 ```bash
 ============================================================

@@ -1,12 +1,21 @@
 ## OpenAI (Local File)
-| File                                                       | Avg Duration |
-| ---------------------------------------------------------- | ------------ |
-| Do product detailing with a cardiac surgeon.mp3            | 5.45         |
-| Explain integration capabilities to the IT SPOC.mp3        | 4.77         |
-| Handle questions on claim settlement ratio.mp3             | 3.95         |
-| Illustrate TCO of a commercial vehicle to an SME owner.mp3 | 4.65         |
-| Pitch a credit card to a salaried employee.mp3             | 3.73         |
-
+| File                                                       | First Run Duration | Avg Duration ( 5 runs) |
+| ---------------------------------------------------------- | ------------------ | ---------------------- |
+| Do product detailing with a cardiac surgeon.mp3            | 6.17s              | 5.45s                  |
+| Explain integration capabilities to the IT SPOC.mp3        | 4.26s              | 4.77s                  |
+| Handle questions on claim settlement ratio.mp3             | 3.57s              | 3.95s                  |
+| Illustrate TCO of a commercial vehicle to an SME owner.mp3 | 4.55s              | 4.65s                  |
+| Pitch a credit card to a salaried employee.mp3             | 3.83s              | 3.73s                  |
+| 1.mp3                                                      | 3.59               | 2.95                   |
+| 2.mp3                                                      | 4.91               | 11.9                   |
+| 3.mp3                                                      | 2.83               | 2.65                   |
+| 4.mp3                                                      | 2.31               | 2.57                   |
+| 5.mp3                                                      | 2.83               | 2.6                    |
+| 6.mp3                                                      | 2.79               | 2.6                    |
+| 7.mp3                                                      | 3.65               | 2.7                    |
+| 8.mp3                                                      | 2.83               | 2.44                   |
+| 9.mp3                                                      | 2.49               | 2.5                    |
+| 10.mp3                                                     | 2.47               | 3.17                   |
 
 
 
